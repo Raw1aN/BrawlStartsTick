@@ -13,10 +13,6 @@
     position:absolute;
 }
 
-.link{
-    text-decoration: none;
-}
-
 .logo{
     position: absolute;
     width: 2%;
@@ -29,6 +25,10 @@
     width: 2%;
     height: 2.5%;
     margin-left: 36%;
+}
+
+.link{
+    text-decoration: none;
 }
 
 body{
